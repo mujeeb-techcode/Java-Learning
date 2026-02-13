@@ -19,5 +19,6 @@ public class practice {
         int e = n.nextInt();
         System.out.println("The total number are all subjects :");
         System.out.println((a+b+c+d+e)+"    Out of 500");
+        System.out.println("Thanks for calculation");
     }
 }
